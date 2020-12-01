@@ -8,6 +8,7 @@ public class Aluno {
     public double nota3;
 
 
+
     public double somaNotas() { //função soma das notas retorna a soma total das notas
         return nota1 + nota2 + nota3;
     }
